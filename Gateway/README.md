@@ -1,1 +1,1 @@
-This serves as API gateway for ShipAfrika microservice based architecture.
+This serves as API gateway for Lumen microservice based architecture.
